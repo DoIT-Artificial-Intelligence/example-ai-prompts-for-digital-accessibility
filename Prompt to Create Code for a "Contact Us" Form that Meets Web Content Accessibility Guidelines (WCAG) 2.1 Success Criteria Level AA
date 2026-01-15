@@ -1,0 +1,6 @@
+## Prompt
+
+"Create the code for a **Contact Us** form. It should include fields for Name, Email, and Message. In addition:
+- Ensure every field has a <label> tag.
+- Include 'Error Messages' that appear if a field is left blank. These errors must be announced by screen readers (use aria-describedby).
+- Ensure the **Submit** button changes appearance when someone tabs to it using a keyboard."
