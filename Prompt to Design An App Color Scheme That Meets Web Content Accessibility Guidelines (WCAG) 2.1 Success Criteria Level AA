@@ -1,0 +1,5 @@
+## Prompt
+
+"Help me design a color scheme for my app. I need a primary color, a secondary color, and a background color. Provide the Hex codes and prove that they meet WCAG 2.1 AA contrast requirements (4.5:1 for normal text). 
+
+Also, suggest a font that is easy to read for people with dyslexia. This font must meet compliance standards for Web Content Accessibility Guidelines (WCAG) 2.1 Success Criteria Level AA."
